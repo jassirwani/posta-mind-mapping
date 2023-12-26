@@ -1,9 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T14:01:23.255Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="nzVL_4tYPd4cdy5-Astl" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T14:06:27.164Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4c7YExoHvBP0xxfhsopY" version="22.1.11" type="github">
   <diagram name="Page-1" id="63Gj9j148bYVDnYbve6n">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-As7H3hFm-FKlt-kXTQv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-As7H3hFm-FKlt-kXTQv-1" target="-As7H3hFm-FKlt-kXTQv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-As7H3hFm-FKlt-kXTQv-1" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-As7H3hFm-FKlt-kXTQv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="-As7H3hFm-FKlt-kXTQv-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-As7H3hFm-FKlt-kXTQv-2" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-As7H3hFm-FKlt-kXTQv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-As7H3hFm-FKlt-kXTQv-3" target="-As7H3hFm-FKlt-kXTQv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-As7H3hFm-FKlt-kXTQv-3" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-As7H3hFm-FKlt-kXTQv-4" value="API Gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="120" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="-As7H3hFm-FKlt-kXTQv-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="56.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
