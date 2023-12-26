@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T14:39:32.682Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5WVcdo5P-1amiXO8OtQI" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T14:41:18.460Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AcaXt3iGzp-qzGqqLKpL" version="22.1.11" type="github">
   <diagram name="Page-1" id="63Gj9j148bYVDnYbve6n">
     <mxGraphModel dx="954" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,6 +41,9 @@
         <mxCell id="-As7H3hFm-FKlt-kXTQv-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="190" y="200" width="56.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-As7H3hFm-FKlt-kXTQv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.3;entryDx=0;entryDy=0;" edge="1" parent="1" source="-As7H3hFm-FKlt-kXTQv-9" target="-As7H3hFm-FKlt-kXTQv-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-As7H3hFm-FKlt-kXTQv-9" value="Micro Integrator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -51,7 +54,7 @@
           <mxGeometry x="400" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-As7H3hFm-FKlt-kXTQv-16" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="120" width="60" height="60" as="geometry" />
+          <mxGeometry x="750" y="100" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-As7H3hFm-FKlt-kXTQv-17" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.application_server;" vertex="1" parent="1">
           <mxGeometry x="760" y="240" width="50" height="66" as="geometry" />
@@ -90,6 +93,12 @@
         </mxCell>
         <mxCell id="-As7H3hFm-FKlt-kXTQv-23" value="Integration Developers" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workspaces;fillColor=#D16A28;gradientColor=#F58435;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="380" y="550" width="82.5" height="94.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-As7H3hFm-FKlt-kXTQv-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.06;entryY=0.485;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-As7H3hFm-FKlt-kXTQv-10" target="-As7H3hFm-FKlt-kXTQv-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-As7H3hFm-FKlt-kXTQv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.02;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-As7H3hFm-FKlt-kXTQv-11" target="-As7H3hFm-FKlt-kXTQv-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
