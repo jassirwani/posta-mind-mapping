@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T12:11:47.946Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-blPXb7KPlSYQHQzYMUQ" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T12:12:45.816Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KB07lEeFUyK7Xe2AypTa" version="22.1.16" type="github">
   <diagram name="Page-1" id="qxffikaDEZeMn734_tKv">
     <mxGraphModel dx="954" dy="606" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,17 +83,20 @@
         <mxCell id="oyZoGBa4WGomVmZSgcjT-37" value="Develop&lt;br&gt;Test&lt;br&gt;Deploy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="475" y="727" width="60" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="oyZoGBa4WGomVmZSgcjT-38" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Dashboard.svg;" vertex="1" parent="1">
-          <mxGeometry x="328" y="583" width="80.75" height="57" as="geometry" />
-        </mxCell>
-        <mxCell id="oyZoGBa4WGomVmZSgcjT-39" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.483;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oyZoGBa4WGomVmZSgcjT-29" target="oyZoGBa4WGomVmZSgcjT-38">
+        <mxCell id="oyZoGBa4WGomVmZSgcjT-39" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.483;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oyZoGBa4WGomVmZSgcjT-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="322" y="709" as="sourcePoint" />
-            <mxPoint x="367" y="644" as="targetPoint" />
+            <mxPoint x="367.00225" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oyZoGBa4WGomVmZSgcjT-40" value="MI Dashboard" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="337" y="553" width="60" height="30" as="geometry" />
+          <mxGeometry x="337" y="544" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oyZoGBa4WGomVmZSgcjT-41" value="Monitor Integrations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="649" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oyZoGBa4WGomVmZSgcjT-42" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/infrastructure/dashboard.svg;" vertex="1" parent="1">
+          <mxGeometry x="337" y="581" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
