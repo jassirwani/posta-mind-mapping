@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T09:58:28.343Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Xq6XR6Jr2JFn4fOcJWyE" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-10T09:59:32.760Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uiO0f9iHnat9fJAMdnp-" version="22.1.16" type="github">
   <diagram name="Page-1" id="qxffikaDEZeMn734_tKv">
     <mxGraphModel dx="954" dy="606" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oyZoGBa4WGomVmZSgcjT-1" value="Shared Database" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="360" y="450" width="50" height="50" as="geometry" />
+          <mxGeometry x="365" y="395" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oyZoGBa4WGomVmZSgcjT-2" value="API Manager DB" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="473" y="450" width="50" height="50" as="geometry" />
+          <mxGeometry x="470" y="395" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="oyZoGBa4WGomVmZSgcjT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyZoGBa4WGomVmZSgcjT-4" target="oyZoGBa4WGomVmZSgcjT-1">
           <mxGeometry relative="1" as="geometry" />
@@ -33,19 +33,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oyZoGBa4WGomVmZSgcjT-7" value="Publisher" style="points=[[0.03,0.03,0],[0.5,0,0],[0.97,0.03,0],[1,0.4,0],[0.97,0.745,0],[0.5,1,0],[0.03,0.745,0],[0,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.workstation;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="658" y="159" width="62" height="49.6" as="geometry" />
+          <mxGeometry x="609" y="164" width="62" height="49.6" as="geometry" />
         </mxCell>
         <mxCell id="oyZoGBa4WGomVmZSgcjT-11" value="Create&lt;br&gt;Deploy&lt;br&gt;Test&lt;br&gt;Manage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="190" width="60" height="80" as="geometry" />
+          <mxGeometry x="543" y="194" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oyZoGBa4WGomVmZSgcjT-12" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/api_developer_portal.svg;" vertex="1" parent="1">
           <mxGeometry x="410" y="109" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oyZoGBa4WGomVmZSgcjT-14" value="Publish" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="561" y="106" width="60" height="30" as="geometry" />
+          <mxGeometry x="531" y="106" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oyZoGBa4WGomVmZSgcjT-15" value="API Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="732" y="151.6" width="29" height="57" as="geometry" />
+          <mxGeometry x="687" y="156.6" width="29" height="57" as="geometry" />
         </mxCell>
         <mxCell id="oyZoGBa4WGomVmZSgcjT-17" value="Subscribe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="293" y="106" width="60" height="30" as="geometry" />
